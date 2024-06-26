@@ -1,2 +1,1 @@
-# MACHING-LEARNING
-关于机器学习的相关代码和笔记
+python项目(代码 && 笔记)
